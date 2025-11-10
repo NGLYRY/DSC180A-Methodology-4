@@ -1,4 +1,5 @@
 Ryan Ly (r1ly@ucsd.edu)
+
 B12 Victor Mince
 
 **1. What is the most interesting topic covered in your domain this quarter?**
